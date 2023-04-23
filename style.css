@@ -1,0 +1,80 @@
+.vertical-menu {
+    width: 120px; /* Set a width if you like */
+  }
+  
+  .vertical-menu a {
+    background-color:whitesmoke; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .vertical-menu a:hover {
+    background-color:azure; /* Dark grey background on mouse-over */
+  }
+  
+  .vertical-menu a.active {
+    background-color: rgb(67, 68, 66); /* Add a green color to the "active/current" link */
+    color: white;
+  }
+
+  .vertical-menu {
+    width: 200px;
+    height: 150px;
+    overflow-y: auto;
+  }
+.atmeretez{
+    width: 700px;
+    height: 550px;
+}
+
+#video {
+height: 650px;
+width: 750px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+}
+
+p{
+    font-size: x-large;
+}
+body{
+   background-color: slategray;
+}
+
+
+
+title{
+    text-align: center;
+    color:whitesmoke;
+    margin-top: 0;
+}
+
+h1{
+    text-align: center;
+    color:whitesmoke;
+}
+
+p{
+    font-size: x-large;
+    color: whitesmoke;
+}
+
+footer{
+    text-align: right;
+}
+
+img{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+li{
+  font-size: x-large;
+  color:whitesmoke;
+}
